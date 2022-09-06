@@ -5,7 +5,7 @@ This plugin for the Wii U Plugin System turns the Wii U GamePad screen off, but 
 ## Installation
 
 1. Install Aroma
-2. Check the Releases page and download the latest version of this plugin
+2. Check the Releases page and download the [latest non-preview version](https://github.com/WiiDatabase/Padcon-Plugin-Mod/releases/latest) of this plugin
 3. Extract it to "`SD://wiiu/environments/aroma/plugins`"
 4. Done!
 
