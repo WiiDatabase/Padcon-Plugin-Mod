@@ -11,7 +11,10 @@ This plugin for the Wii U Plugin System turns the Wii U GamePad screen off, but 
 
 ## Usage
 
-While the plugin is active, press `ZL` + `ZR` + `L` + `R` + `PLUS` together to turn off the screen. The GamePad will still be usable as a controller. Press `ZL` + `ZR` + `L` + `R` + `MINUS` together to shut the GamePad off completely. You can turn it on again via the POWER button.
+| Button Combo            | Action                                                                  |
+| ----------------------- | ----------------------------------------------------------------------- |
+| ZL + ZR + L + R + Plus  | Disable GamePad screen, use as controller (press again to enable again) |
+| ZL + ZR + L + R + Minus | Power the GamePad down completely                                       |
 
 ## Building
 
