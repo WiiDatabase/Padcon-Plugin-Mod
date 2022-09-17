@@ -16,7 +16,7 @@ DECL_FUNCTION(int32_t, VPADRead, VPADChan chan, VPADStatus *buffer,
   int32_t result = real_VPADRead(chan, buffer, buffer_size, error);
 
   if (result > 0) {
-    if(error && *error != VPAD_READ_SUCCESS) {
+    if (error && *error != VPAD_READ_SUCCESS) {
       return result;
     }
     if (cooldown == 0) {
