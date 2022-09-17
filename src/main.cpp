@@ -5,7 +5,7 @@
 WUPS_PLUGIN_NAME("Padcon");
 WUPS_PLUGIN_DESCRIPTION("Turns the gamepad screen on/off or shuts the GamePad "
                         "off when pressing ZL + ZR + L + R + Plus/Minus.");
-WUPS_PLUGIN_VERSION("v1.2.1-Mod");
+WUPS_PLUGIN_VERSION("v1.2.2-Mod");
 WUPS_PLUGIN_AUTHOR("Maschell, Brawl");
 WUPS_PLUGIN_LICENSE("GPLv3");
 
