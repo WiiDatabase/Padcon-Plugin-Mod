@@ -4,3 +4,4 @@ build/
 *.wps
 cmake-build-debug/
 CMakeLists.txt
+.vscode/settings.json
