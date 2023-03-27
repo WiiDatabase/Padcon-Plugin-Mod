@@ -1,6 +1,8 @@
 # Padcon Plugin for the Wii U Plugin System
 
-This plugin for the Wii U Plugin System turns the Wii U GamePad screen off, but keeps it on as a controller. Alternatively, it can also be turned off completely. Modified version of the [Padcon plugin](https://github.com/Maschell/WUPSPluginPlayground/tree/master/padcon) by Maschell.
+This plugin for the Wii U Plugin System turns the Wii U GamePad screen off, but keeps it on as a controller. Alternatively, it can also be turned off completely. Button combos can be adjusted in the config menu.
+
+Modified version of the [Padcon plugin](https://github.com/Maschell/WUPSPluginPlayground/tree/master/padcon) by Maschell.
 
 ## Installation
 
@@ -11,10 +13,14 @@ This plugin for the Wii U Plugin System turns the Wii U GamePad screen off, but 
 
 ## Usage
 
-| Button Combo            | Action                                                                  |
+**You have to HOLD the buttons for a second, not just click them!**
+
+| Default Button Combo    | Action                                                                  |
 | ----------------------- | ----------------------------------------------------------------------- |
 | ZL + ZR + L + R + Plus  | Disable GamePad screen, use as controller (press again to enable again) |
-| ZL + ZR + L + R + Minus | Power the GamePad down completely                                       |
+| ZL + ZR + L + R + Minus | Power the GamePad down completely (need to power it on again to use it) |
+
+You can change these button combos in the WUPS Config Menu (L + D-Pad Down + Minus). The plugin can also be disabled there.
 
 ## Building
 
